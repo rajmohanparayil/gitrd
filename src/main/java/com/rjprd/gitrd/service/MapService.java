@@ -8,7 +8,7 @@ public class MapService {
 		return mapUtil.calculateDistance(zipcode1, zipcode2, "zipcode");
 	}
 	
-	public double projectSpecificNearbyBar(String zipcode){
+	public double productSpecificNearbyBar(String zipcode){
 		return 0.23;
 	}
 
